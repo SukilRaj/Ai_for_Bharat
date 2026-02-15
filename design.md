@@ -1,4 +1,4 @@
-Sign2Note – Design Document
+Sign2Notes AI – Design Document
 1. System Overview
 1.1 Purpose
 
